@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <h1 className='text-6xl'>Priyansh Neel</h1>
+    <h1 className='text-2xl'>Priyansh Neel</h1>
     </>
   )
 }
