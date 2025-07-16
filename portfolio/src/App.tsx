@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <h1 className='text-sx'>Priyansh</h1>
+    <h1 className='text-center'>Priyansh</h1>
     </>
   )
 }
