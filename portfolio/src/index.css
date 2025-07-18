@@ -21,3 +21,8 @@
     font-style: normal; /* Adjust as needed */
 
 }
+
+@font-face {
+    font-family: "Viaoda Libre";
+    src: url("./Components/Main/ViaodaLibre-Regular.ttf");
+}
