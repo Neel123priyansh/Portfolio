@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,500;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
 @import "tailwindcss";
 
 
@@ -10,9 +11,13 @@
     --font-unna: "Unna", serif;
     --font-merriweather: "Merriweather", serif;
     --font-robotocondensed: "Roboto Condensed", sans-serif;
+    --font-viaodalibre: "Viaoda Libre", serif;
 }
 
 @font-face {
     font-family: "Regina";
-    src: url("./Components/Main/Regina.otf") format("opentype");
+    src: url("./Components/Main/Regina.otf");
+    font-weight: normal; /* Adjust as needed */
+    font-style: normal; /* Adjust as needed */
+
 }
