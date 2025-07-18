@@ -8,7 +8,7 @@ export default function header() {
         <ul className='flex flex-row text-xl justify-between text-[#252b29] gap-10 font-robotocondensed tracking-widest '>
           <li className='p-4'>PORTFOLIO</li>
           <li className='p-4'>ABOUT</li>
-          <li className='p-4 rounded-[5px] border-2'>RESUME</li >
+          <li className='p-4 rounded-[5px] border-2'>RESUME</li>
           <li className='p-4'>CONTACT ME</li>
         </ul>
     </div>
