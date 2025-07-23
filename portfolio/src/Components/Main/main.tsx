@@ -9,7 +9,7 @@ import { WordRotate } from "../magicui/word-rotate";
 export default function Main() {
   return (
     <div className='flex flex-row px-10 justify-between'>
-        <h1 style={{ fontFamily: "Viaoda Libre" }} className="text-7xl tracking-wide font-black mt-[220px]"> Hi there! I'm <span style={{ color: "#b02e2e" }}>Priyansh Neel</span><br /> web developer,<br/> product designer,<br/>maker & future entrepreneur</h1>
+        <h1 style={{ fontFamily: "Viaoda Libre" }} className="text-7xl tracking-wide font-black mt-[220px]"> Hi there! I'm <WordRotate words={["Word", "Rotate"]} /><br /> web developer,<br/> product designer,<br/>maker & future entrepreneur</h1>
             <Terminal className="mt-[160px] bg-gray-900">
       <TypingAnimation className="text-blue-50">&gt; pnpm dlx shadcn@latest init</TypingAnimation>
  
