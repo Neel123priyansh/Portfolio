@@ -4,6 +4,7 @@ import {
   Terminal,
   TypingAnimation,
 } from "../magicui/terminal";
+import { WordRotate } from "../magicui/word-rotate";
 
 export default function Main() {
   return (
