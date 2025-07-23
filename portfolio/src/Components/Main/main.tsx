@@ -10,7 +10,7 @@ export default function Main() {
   return (
     <div className='flex flex-row px-10 justify-between'>
         <h1 style={{ fontFamily: "Viaoda Libre" }} className="text-7xl tracking-wide font-black mt-[220px]"> 
-  <span className="flex items-center gap-2 w-max">Hi there! I'm <WordRotate className="text-[#b02e2e]" words={["Priyansh Neel", "प्रियांश नील", "پریانش نیل"]} /></span>web developer,<br />product designer,<br />maker & future entrepreneur</h1>
+  <span className="flex items-center gap-4">Hi there! I'm <WordRotate className="text-[#b02e2e]" words={["Priyansh Neel", "प्रियांश नील", "پریانش نیل"]} /></span>web developer,<br />product designer,<br />maker & future entrepreneur</h1>
 
             <Terminal className="mt-[160px] bg-gray-900">
       <TypingAnimation className="text-blue-50">&gt; pnpm dlx shadcn@latest init</TypingAnimation>
