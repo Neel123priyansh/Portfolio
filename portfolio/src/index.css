@@ -14,7 +14,10 @@
     --font-merriweather: "Merriweather", serif;
     --font-robotocondensed: "Roboto Condensed", sans-serif;
     --font-viaoda-libre-regular: "Viaoda Libre", serif;
-    
+    --animate-slideInLeft: slideInLeft 0.5s ease-out;
+    @keyframes slideInLeft {
+        
+    }
 }
 
 @font-face {
