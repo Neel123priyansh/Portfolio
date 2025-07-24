@@ -7,7 +7,7 @@ export const Home = () => {
   return (
     <>
     <SmoothCursor />
-    <Header/>
+    <Header/>  
     <Main/>
     <Move/> 
     </>
