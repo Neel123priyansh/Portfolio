@@ -14,4 +14,4 @@ export const Home = () => {
   )
 }
 
-export efault Home     
+export default Home     
