@@ -9,7 +9,7 @@ export const Home = () => {
     <SmoothCursor />
     <Header/>
     <Main/>
-    <Move/>
+    <Move/> 
     </>
   )
 }
