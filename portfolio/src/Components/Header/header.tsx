@@ -1,5 +1,5 @@
 import { useNavigate} from "react-router-dom" 
-export default function header() { 
+export default function header() {  
   const navigate = useNavigate() 
   
   return (
