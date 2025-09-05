@@ -12,5 +12,5 @@ export default function header() {
           <li className='p-4'>CONTACT ME</li>    
         </ul>   
     </div> 
-  )   
+  )    
 }    
