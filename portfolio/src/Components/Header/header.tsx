@@ -9,7 +9,7 @@ export default function header() {
           <li className='p-4'>PORTFOLIO</li>     
           <li className='p-4'>ABOUT</li>          
           <li className='p-4 rounded-[5px] border-2'>RESUME</li>    
-          <li className='p-4'>CONTACT ME</li>     
+          <li className='p-4'>CONTACT ME</li>      
         </ul>   
     </div>  
   )     
