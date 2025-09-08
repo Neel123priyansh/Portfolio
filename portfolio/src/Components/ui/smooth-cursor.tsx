@@ -39,7 +39,7 @@ const DefaultCursorSVG: FC = () => {
           strokeWidth={2.25825}
         />
       </g>
-      <defs>
+      <defs> 
         <filter
           id="filter0_d_91_7928"
           x={0.602397}
