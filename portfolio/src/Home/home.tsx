@@ -5,7 +5,7 @@ import Move from './move'
             
 export const Home = () => {
   return (
-    <>
+    <> 
     <SmoothCursor />  
     <Header/>  
     <Main/>
