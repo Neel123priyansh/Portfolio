@@ -53,7 +53,7 @@ const DefaultCursorSVG: FC = () => {
           <feColorMatrix
             in="SourceAlpha"
             type="matrix"
-            values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+            values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" 
             result="hardAlpha"  
           />
           <feOffset dy={2.25825} />
