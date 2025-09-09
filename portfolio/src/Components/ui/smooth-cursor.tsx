@@ -74,7 +74,7 @@ const DefaultCursorSVG: FC = () => {
             in2="effect1_dropShadow_91_7928" 
             result="shape" 
           />
-        </filter>
+        </filter> 
       </defs>
     </svg>
   );
