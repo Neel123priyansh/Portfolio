@@ -76,7 +76,7 @@ const DefaultCursorSVG: FC = () => {
           />
         </filter> 
       </defs>
-    </svg>
+    </svg> 
   );
 };
 
