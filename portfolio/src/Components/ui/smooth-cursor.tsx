@@ -52,9 +52,9 @@ const DefaultCursorSVG: FC = () => {
           <feFlood floodOpacity={0} result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
-            type="matrix"
+            type="matrix" 
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" 
-            result="hardAlpha"  
+            result="hardAlpha"   
           />
           <feOffset dy={2.25825} /> 
           <feGaussianBlur stdDeviation={2.25825} /> 
