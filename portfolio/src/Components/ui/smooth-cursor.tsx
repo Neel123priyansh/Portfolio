@@ -60,7 +60,7 @@ const DefaultCursorSVG: FC = () => {
           <feGaussianBlur stdDeviation={2.25825} />    
           <feComposite in2="hardAlpha" operator="out" />
           <feColorMatrix 
-            type="matrix"  
+            type="matrix"   
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"
           />
           <feBlend 
