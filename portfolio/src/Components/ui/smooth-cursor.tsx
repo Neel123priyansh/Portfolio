@@ -61,7 +61,7 @@ const DefaultCursorSVG: FC = () => {
           <feComposite in2="hardAlpha" operator="out" />
           <feColorMatrix 
             type="matrix"   
-            values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"
+            values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0" 
           />
           <feBlend 
             mode="normal"
