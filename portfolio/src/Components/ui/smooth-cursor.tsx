@@ -64,7 +64,7 @@ const DefaultCursorSVG: FC = () => {
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0" 
           />
           <feBlend   
-            in2="BackgroundImageFix"   
+            in2="BackgroundImageFix"    
             result="effect1_dropShadow_91_7928"
           />
           <feBlend 
